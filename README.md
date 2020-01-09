@@ -1,1 +1,0 @@
-# bookstore_items-api
